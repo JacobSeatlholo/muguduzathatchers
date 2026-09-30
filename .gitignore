@@ -68,3 +68,6 @@ server.log
 /mini-services/
 /tests/
 /prisma/*.db-journal
+
+# sandbox deploy tooling (local only)
+/scripts/
