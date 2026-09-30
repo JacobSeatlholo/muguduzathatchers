@@ -71,3 +71,4 @@ server.log
 
 # sandbox deploy tooling (local only)
 /scripts/
+/download/
